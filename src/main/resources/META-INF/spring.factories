@@ -1,0 +1,6 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.wutong.framework.core.configuration.dubbo.initializer.DubboConfigurationApplicationContextInitializer
+org.springframework.context.ApplicationListener=\
+com.wutong.framework.core.configuration.dubbo.listener.DubboHolderListener
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.wutong.framework.core.configuration.dubbo.config.DubboConfiguration
